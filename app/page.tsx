@@ -12,15 +12,15 @@ export default function Home() {
 
       <AppIcon
         img="/whatsapp.png"
-        url="https://web.whatsapp.com"
+        url="/whatsapp"
       />
       <AppIcon
         img="/youtube.png"
-        url="https://youtube.com"
+        url="/youtube"
       />
       <AppIcon
         img="/google.png"
-        url="https://google.com"
+        url="/google"
       />
     </div>
   );
